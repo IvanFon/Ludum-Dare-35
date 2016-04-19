@@ -1,0 +1,301 @@
+{
+  "name": "Ludum Dare 35",
+  "assets": [
+    {
+      "id": "11",
+      "name": "Sprites",
+      "type": null,
+      "children": [
+        {
+          "id": "22",
+          "name": "Menu",
+          "type": null,
+          "children": [
+            {
+              "id": "24",
+              "name": "Background",
+              "type": "sprite"
+            },
+            {
+              "id": "25",
+              "name": "Start Button",
+              "type": "sprite"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "name": "Game",
+          "type": null,
+          "children": [
+            {
+              "id": "46",
+              "name": "Form1",
+              "type": "sprite"
+            },
+            {
+              "id": "48",
+              "name": "Form2",
+              "type": "sprite"
+            },
+            {
+              "id": "44",
+              "name": "Form3",
+              "type": "sprite"
+            },
+            {
+              "id": "42",
+              "name": "Form4",
+              "type": "sprite"
+            },
+            {
+              "id": "43",
+              "name": "Form5",
+              "type": "sprite"
+            },
+            {
+              "id": "47",
+              "name": "Form6",
+              "type": "sprite"
+            },
+            {
+              "id": "8",
+              "name": "Enemy",
+              "type": "sprite"
+            },
+            {
+              "id": "39",
+              "name": "Bar",
+              "type": "sprite"
+            },
+            {
+              "id": "50",
+              "name": "CoudShift",
+              "type": "sprite"
+            },
+            {
+              "id": "54",
+              "name": "Icons",
+              "type": "sprite"
+            },
+            {
+              "id": "66",
+              "name": "white rectangle",
+              "type": "sprite"
+            },
+            {
+              "id": "67",
+              "name": "mute",
+              "type": "sprite"
+            },
+            {
+              "id": "68",
+              "name": "unmute",
+              "type": "sprite"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Scripts",
+      "type": null,
+      "children": [
+        {
+          "id": "20",
+          "name": "Game",
+          "type": null,
+          "children": [
+            {
+              "id": "38",
+              "name": "Enemy Death Manager",
+              "type": "script"
+            },
+            {
+              "id": "27",
+              "name": "Player Manager",
+              "type": "script"
+            },
+            {
+              "id": "32",
+              "name": "Character",
+              "type": "script"
+            },
+            {
+              "id": "33",
+              "name": "Player",
+              "type": "script"
+            },
+            {
+              "id": "58",
+              "name": "Enemy",
+              "type": "script"
+            },
+            {
+              "id": "63",
+              "name": "Game Manager",
+              "type": "script"
+            },
+            {
+              "id": "65",
+              "name": "Enemy Manager",
+              "type": "script"
+            },
+            {
+              "id": "34",
+              "name": "Obsolete Scripts",
+              "type": null,
+              "children": [
+                {
+                  "id": "3",
+                  "name": "OBSOLETE Player",
+                  "type": "script"
+                },
+                {
+                  "id": "31",
+                  "name": "OBSOLETE Framerate Counter",
+                  "type": "script"
+                },
+                {
+                  "id": "36",
+                  "name": "OBSOLETE Health Bar",
+                  "type": "script"
+                },
+                {
+                  "id": "10",
+                  "name": "OBSOLETE Enemy",
+                  "type": "script"
+                }
+              ]
+            },
+            {
+              "id": "69",
+              "name": "Mute Manager",
+              "type": "script"
+            }
+          ]
+        },
+        {
+          "id": "30",
+          "name": "Menu",
+          "type": "script"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Scenes",
+      "type": null,
+      "children": [
+        {
+          "id": "17",
+          "name": "Menu",
+          "type": "scene"
+        },
+        {
+          "id": "60",
+          "name": "Help Menu",
+          "type": "scene"
+        },
+        {
+          "id": "0",
+          "name": "Level",
+          "type": "scene"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Fonts",
+      "type": null,
+      "children": [
+        {
+          "id": "7",
+          "name": "Font",
+          "type": "font"
+        },
+        {
+          "id": "28",
+          "name": "Black Font",
+          "type": "font"
+        },
+        {
+          "id": "29",
+          "name": "Title Font",
+          "type": "font"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Tilesets",
+      "type": null,
+      "children": [
+        {
+          "id": "4",
+          "name": "Tile Set",
+          "type": "tileSet"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Levels",
+      "type": null,
+      "children": [
+        {
+          "id": "6",
+          "name": "Map",
+          "type": "tileMap"
+        },
+        {
+          "id": "61",
+          "name": "Menu",
+          "type": "tileMap"
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "name": "Prefabs",
+      "type": null,
+      "children": [
+        {
+          "id": "52",
+          "name": "Enemy",
+          "type": "scene"
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "name": "Music",
+      "type": null,
+      "children": [
+        {
+          "id": "62",
+          "name": "Theme",
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "name": "Sounds",
+      "type": null,
+      "children": [
+        {
+          "id": "64",
+          "name": "Jump",
+          "type": "sound"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "name": "TODO",
+      "type": "script"
+    }
+  ]
+}

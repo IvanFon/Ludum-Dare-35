@@ -1,0 +1,744 @@
+{
+  "formatVersion": 3,
+  "maps": [
+    "map"
+  ],
+  "filtering": "pixelated",
+  "wrapping": "clampToEdge",
+  "pixelsPerUnit": 32,
+  "framesPerSecond": 10,
+  "opacity": null,
+  "alphaTest": 0.1,
+  "frameOrder": "rows",
+  "grid": {
+    "width": 104,
+    "height": 14
+  },
+  "origin": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "animations": [
+    {
+      "id": "7",
+      "name": "all",
+      "startFrameIndex": 0,
+      "endFrameIndex": 100,
+      "speed": 3
+    },
+    {
+      "id": "0",
+      "name": "100",
+      "startFrameIndex": 0,
+      "endFrameIndex": 0,
+      "speed": 1
+    },
+    {
+      "id": "1",
+      "name": "99",
+      "startFrameIndex": 1,
+      "endFrameIndex": 1,
+      "speed": 1
+    },
+    {
+      "id": "2",
+      "name": "98",
+      "startFrameIndex": 2,
+      "endFrameIndex": 2,
+      "speed": 1
+    },
+    {
+      "id": "3",
+      "name": "97",
+      "startFrameIndex": 3,
+      "endFrameIndex": 3,
+      "speed": 1
+    },
+    {
+      "id": "4",
+      "name": "96",
+      "startFrameIndex": 4,
+      "endFrameIndex": 4,
+      "speed": 1
+    },
+    {
+      "id": "5",
+      "name": "95",
+      "startFrameIndex": 5,
+      "endFrameIndex": 5,
+      "speed": 1
+    },
+    {
+      "id": "6",
+      "name": "94",
+      "startFrameIndex": 6,
+      "endFrameIndex": 6,
+      "speed": 1
+    },
+    {
+      "id": "8",
+      "name": "93",
+      "startFrameIndex": 7,
+      "endFrameIndex": 7,
+      "speed": 1
+    },
+    {
+      "id": "9",
+      "name": "92",
+      "startFrameIndex": 8,
+      "endFrameIndex": 8,
+      "speed": 1
+    },
+    {
+      "id": "10",
+      "name": "91",
+      "startFrameIndex": 9,
+      "endFrameIndex": 9,
+      "speed": 1
+    },
+    {
+      "id": "11",
+      "name": "90",
+      "startFrameIndex": 10,
+      "endFrameIndex": 10,
+      "speed": 1
+    },
+    {
+      "id": "12",
+      "name": "89",
+      "startFrameIndex": 11,
+      "endFrameIndex": 11,
+      "speed": 1
+    },
+    {
+      "id": "13",
+      "name": "88",
+      "startFrameIndex": 12,
+      "endFrameIndex": 12,
+      "speed": 1
+    },
+    {
+      "id": "14",
+      "name": "87",
+      "startFrameIndex": 13,
+      "endFrameIndex": 13,
+      "speed": 1
+    },
+    {
+      "id": "15",
+      "name": "86",
+      "startFrameIndex": 14,
+      "endFrameIndex": 14,
+      "speed": 1
+    },
+    {
+      "id": "16",
+      "name": "85",
+      "startFrameIndex": 15,
+      "endFrameIndex": 15,
+      "speed": 1
+    },
+    {
+      "id": "17",
+      "name": "84",
+      "startFrameIndex": 16,
+      "endFrameIndex": 16,
+      "speed": 1
+    },
+    {
+      "id": "18",
+      "name": "83",
+      "startFrameIndex": 17,
+      "endFrameIndex": 17,
+      "speed": 1
+    },
+    {
+      "id": "19",
+      "name": "82",
+      "startFrameIndex": 18,
+      "endFrameIndex": 18,
+      "speed": 1
+    },
+    {
+      "id": "20",
+      "name": "81",
+      "startFrameIndex": 19,
+      "endFrameIndex": 19,
+      "speed": 1
+    },
+    {
+      "id": "21",
+      "name": "80",
+      "startFrameIndex": 20,
+      "endFrameIndex": 20,
+      "speed": 1
+    },
+    {
+      "id": "22",
+      "name": "79",
+      "startFrameIndex": 21,
+      "endFrameIndex": 21,
+      "speed": 1
+    },
+    {
+      "id": "23",
+      "name": "78",
+      "startFrameIndex": 22,
+      "endFrameIndex": 22,
+      "speed": 1
+    },
+    {
+      "id": "24",
+      "name": "77",
+      "startFrameIndex": 23,
+      "endFrameIndex": 23,
+      "speed": 1
+    },
+    {
+      "id": "25",
+      "name": "76",
+      "startFrameIndex": 24,
+      "endFrameIndex": 24,
+      "speed": 1
+    },
+    {
+      "id": "26",
+      "name": "75",
+      "startFrameIndex": 25,
+      "endFrameIndex": 25,
+      "speed": 1
+    },
+    {
+      "id": "27",
+      "name": "74",
+      "startFrameIndex": 26,
+      "endFrameIndex": 26,
+      "speed": 1
+    },
+    {
+      "id": "28",
+      "name": "73",
+      "startFrameIndex": 27,
+      "endFrameIndex": 27,
+      "speed": 1
+    },
+    {
+      "id": "29",
+      "name": "72",
+      "startFrameIndex": 28,
+      "endFrameIndex": 28,
+      "speed": 1
+    },
+    {
+      "id": "30",
+      "name": "71",
+      "startFrameIndex": 29,
+      "endFrameIndex": 29,
+      "speed": 1
+    },
+    {
+      "id": "31",
+      "name": "70",
+      "startFrameIndex": 30,
+      "endFrameIndex": 30,
+      "speed": 1
+    },
+    {
+      "id": "32",
+      "name": "69",
+      "startFrameIndex": 31,
+      "endFrameIndex": 31,
+      "speed": 1
+    },
+    {
+      "id": "33",
+      "name": "68",
+      "startFrameIndex": 32,
+      "endFrameIndex": 32,
+      "speed": 1
+    },
+    {
+      "id": "34",
+      "name": "67",
+      "startFrameIndex": 33,
+      "endFrameIndex": 33,
+      "speed": 1
+    },
+    {
+      "id": "35",
+      "name": "66",
+      "startFrameIndex": 34,
+      "endFrameIndex": 34,
+      "speed": 1
+    },
+    {
+      "id": "36",
+      "name": "65",
+      "startFrameIndex": 35,
+      "endFrameIndex": 35,
+      "speed": 1
+    },
+    {
+      "id": "37",
+      "name": "64",
+      "startFrameIndex": 36,
+      "endFrameIndex": 36,
+      "speed": 1
+    },
+    {
+      "id": "38",
+      "name": "63",
+      "startFrameIndex": 37,
+      "endFrameIndex": 37,
+      "speed": 1
+    },
+    {
+      "id": "39",
+      "name": "62",
+      "startFrameIndex": 38,
+      "endFrameIndex": 38,
+      "speed": 1
+    },
+    {
+      "id": "40",
+      "name": "61",
+      "startFrameIndex": 39,
+      "endFrameIndex": 39,
+      "speed": 1
+    },
+    {
+      "id": "41",
+      "name": "60",
+      "startFrameIndex": 40,
+      "endFrameIndex": 40,
+      "speed": 1
+    },
+    {
+      "id": "42",
+      "name": "59",
+      "startFrameIndex": 41,
+      "endFrameIndex": 41,
+      "speed": 1
+    },
+    {
+      "id": "43",
+      "name": "58",
+      "startFrameIndex": 42,
+      "endFrameIndex": 42,
+      "speed": 1
+    },
+    {
+      "id": "44",
+      "name": "57",
+      "startFrameIndex": 43,
+      "endFrameIndex": 43,
+      "speed": 1
+    },
+    {
+      "id": "45",
+      "name": "56",
+      "startFrameIndex": 44,
+      "endFrameIndex": 44,
+      "speed": 1
+    },
+    {
+      "id": "46",
+      "name": "55",
+      "startFrameIndex": 45,
+      "endFrameIndex": 45,
+      "speed": 1
+    },
+    {
+      "id": "47",
+      "name": "54",
+      "startFrameIndex": 46,
+      "endFrameIndex": 46,
+      "speed": 1
+    },
+    {
+      "id": "48",
+      "name": "53",
+      "startFrameIndex": 47,
+      "endFrameIndex": 47,
+      "speed": 1
+    },
+    {
+      "id": "49",
+      "name": "52",
+      "startFrameIndex": 48,
+      "endFrameIndex": 48,
+      "speed": 1
+    },
+    {
+      "id": "50",
+      "name": "51",
+      "startFrameIndex": 49,
+      "endFrameIndex": 49,
+      "speed": 1
+    },
+    {
+      "id": "51",
+      "name": "50",
+      "startFrameIndex": 50,
+      "endFrameIndex": 50,
+      "speed": 1
+    },
+    {
+      "id": "52",
+      "name": "49",
+      "startFrameIndex": 51,
+      "endFrameIndex": 51,
+      "speed": 1
+    },
+    {
+      "id": "53",
+      "name": "48",
+      "startFrameIndex": 52,
+      "endFrameIndex": 52,
+      "speed": 1
+    },
+    {
+      "id": "54",
+      "name": "47",
+      "startFrameIndex": 53,
+      "endFrameIndex": 53,
+      "speed": 1
+    },
+    {
+      "id": "55",
+      "name": "46",
+      "startFrameIndex": 54,
+      "endFrameIndex": 54,
+      "speed": 1
+    },
+    {
+      "id": "56",
+      "name": "45",
+      "startFrameIndex": 55,
+      "endFrameIndex": 55,
+      "speed": 1
+    },
+    {
+      "id": "58",
+      "name": "44",
+      "startFrameIndex": 56,
+      "endFrameIndex": 56,
+      "speed": 1
+    },
+    {
+      "id": "59",
+      "name": "43",
+      "startFrameIndex": 57,
+      "endFrameIndex": 57,
+      "speed": 1
+    },
+    {
+      "id": "60",
+      "name": "42",
+      "startFrameIndex": 58,
+      "endFrameIndex": 58,
+      "speed": 1
+    },
+    {
+      "id": "61",
+      "name": "41",
+      "startFrameIndex": 59,
+      "endFrameIndex": 59,
+      "speed": 1
+    },
+    {
+      "id": "62",
+      "name": "40",
+      "startFrameIndex": 60,
+      "endFrameIndex": 60,
+      "speed": 1
+    },
+    {
+      "id": "63",
+      "name": "39",
+      "startFrameIndex": 61,
+      "endFrameIndex": 61,
+      "speed": 1
+    },
+    {
+      "id": "64",
+      "name": "38",
+      "startFrameIndex": 62,
+      "endFrameIndex": 62,
+      "speed": 1
+    },
+    {
+      "id": "65",
+      "name": "37",
+      "startFrameIndex": 63,
+      "endFrameIndex": 63,
+      "speed": 1
+    },
+    {
+      "id": "66",
+      "name": "36",
+      "startFrameIndex": 64,
+      "endFrameIndex": 64,
+      "speed": 1
+    },
+    {
+      "id": "67",
+      "name": "35",
+      "startFrameIndex": 65,
+      "endFrameIndex": 65,
+      "speed": 1
+    },
+    {
+      "id": "68",
+      "name": "34",
+      "startFrameIndex": 66,
+      "endFrameIndex": 66,
+      "speed": 1
+    },
+    {
+      "id": "69",
+      "name": "33",
+      "startFrameIndex": 67,
+      "endFrameIndex": 67,
+      "speed": 1
+    },
+    {
+      "id": "70",
+      "name": "32",
+      "startFrameIndex": 68,
+      "endFrameIndex": 68,
+      "speed": 1
+    },
+    {
+      "id": "71",
+      "name": "31",
+      "startFrameIndex": 69,
+      "endFrameIndex": 69,
+      "speed": 1
+    },
+    {
+      "id": "72",
+      "name": "30",
+      "startFrameIndex": 70,
+      "endFrameIndex": 70,
+      "speed": 1
+    },
+    {
+      "id": "73",
+      "name": "29",
+      "startFrameIndex": 71,
+      "endFrameIndex": 71,
+      "speed": 1
+    },
+    {
+      "id": "74",
+      "name": "28",
+      "startFrameIndex": 72,
+      "endFrameIndex": 72,
+      "speed": 1
+    },
+    {
+      "id": "75",
+      "name": "27",
+      "startFrameIndex": 73,
+      "endFrameIndex": 73,
+      "speed": 1
+    },
+    {
+      "id": "76",
+      "name": "26",
+      "startFrameIndex": 74,
+      "endFrameIndex": 74,
+      "speed": 1
+    },
+    {
+      "id": "77",
+      "name": "25",
+      "startFrameIndex": 75,
+      "endFrameIndex": 75,
+      "speed": 1
+    },
+    {
+      "id": "78",
+      "name": "24",
+      "startFrameIndex": 76,
+      "endFrameIndex": 76,
+      "speed": 1
+    },
+    {
+      "id": "79",
+      "name": "23",
+      "startFrameIndex": 77,
+      "endFrameIndex": 77,
+      "speed": 1
+    },
+    {
+      "id": "80",
+      "name": "22",
+      "startFrameIndex": 78,
+      "endFrameIndex": 78,
+      "speed": 1
+    },
+    {
+      "id": "81",
+      "name": "21",
+      "startFrameIndex": 79,
+      "endFrameIndex": 79,
+      "speed": 1
+    },
+    {
+      "id": "82",
+      "name": "20",
+      "startFrameIndex": 80,
+      "endFrameIndex": 80,
+      "speed": 1
+    },
+    {
+      "id": "83",
+      "name": "19",
+      "startFrameIndex": 81,
+      "endFrameIndex": 81,
+      "speed": 1
+    },
+    {
+      "id": "84",
+      "name": "18",
+      "startFrameIndex": 82,
+      "endFrameIndex": 82,
+      "speed": 1
+    },
+    {
+      "id": "85",
+      "name": "17",
+      "startFrameIndex": 83,
+      "endFrameIndex": 83,
+      "speed": 1
+    },
+    {
+      "id": "86",
+      "name": "16",
+      "startFrameIndex": 84,
+      "endFrameIndex": 84,
+      "speed": 1
+    },
+    {
+      "id": "87",
+      "name": "15",
+      "startFrameIndex": 85,
+      "endFrameIndex": 85,
+      "speed": 1
+    },
+    {
+      "id": "88",
+      "name": "14",
+      "startFrameIndex": 86,
+      "endFrameIndex": 86,
+      "speed": 1
+    },
+    {
+      "id": "89",
+      "name": "13",
+      "startFrameIndex": 87,
+      "endFrameIndex": 87,
+      "speed": 1
+    },
+    {
+      "id": "90",
+      "name": "12",
+      "startFrameIndex": 88,
+      "endFrameIndex": 88,
+      "speed": 1
+    },
+    {
+      "id": "91",
+      "name": "11",
+      "startFrameIndex": 89,
+      "endFrameIndex": 89,
+      "speed": 1
+    },
+    {
+      "id": "92",
+      "name": "10",
+      "startFrameIndex": 90,
+      "endFrameIndex": 90,
+      "speed": 1
+    },
+    {
+      "id": "93",
+      "name": "9",
+      "startFrameIndex": 91,
+      "endFrameIndex": 91,
+      "speed": 1
+    },
+    {
+      "id": "94",
+      "name": "8",
+      "startFrameIndex": 92,
+      "endFrameIndex": 92,
+      "speed": 1
+    },
+    {
+      "id": "95",
+      "name": "7",
+      "startFrameIndex": 93,
+      "endFrameIndex": 93,
+      "speed": 1
+    },
+    {
+      "id": "96",
+      "name": "6",
+      "startFrameIndex": 94,
+      "endFrameIndex": 94,
+      "speed": 1
+    },
+    {
+      "id": "97",
+      "name": "5",
+      "startFrameIndex": 95,
+      "endFrameIndex": 95,
+      "speed": 1
+    },
+    {
+      "id": "98",
+      "name": "4",
+      "startFrameIndex": 96,
+      "endFrameIndex": 96,
+      "speed": 1
+    },
+    {
+      "id": "99",
+      "name": "3",
+      "startFrameIndex": 97,
+      "endFrameIndex": 97,
+      "speed": 1
+    },
+    {
+      "id": "100",
+      "name": "2",
+      "startFrameIndex": 98,
+      "endFrameIndex": 98,
+      "speed": 1
+    },
+    {
+      "id": "101",
+      "name": "1",
+      "startFrameIndex": 99,
+      "endFrameIndex": 99,
+      "speed": 1
+    },
+    {
+      "id": "102",
+      "name": "0",
+      "startFrameIndex": 100,
+      "endFrameIndex": 100,
+      "speed": 1
+    }
+  ],
+  "mapSlots": {
+    "map": "map",
+    "light": null,
+    "specular": null,
+    "alpha": null,
+    "normal": null
+  }
+}

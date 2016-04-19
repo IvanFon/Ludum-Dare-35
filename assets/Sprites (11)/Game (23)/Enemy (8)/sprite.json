@@ -1,0 +1,93 @@
+{
+  "formatVersion": 3,
+  "maps": [
+    "map"
+  ],
+  "filtering": "pixelated",
+  "pixelsPerUnit": 32,
+  "framesPerSecond": 10,
+  "opacity": null,
+  "alphaTest": 0.1,
+  "frameOrder": "rows",
+  "grid": {
+    "width": 120,
+    "height": 83
+  },
+  "origin": {
+    "x": 0.46,
+    "y": 0.5
+  },
+  "animations": [
+    {
+      "id": "0",
+      "name": "Idle",
+      "startFrameIndex": 0,
+      "endFrameIndex": 4,
+      "speed": 1
+    },
+    {
+      "id": "1",
+      "name": "Run",
+      "startFrameIndex": 5,
+      "endFrameIndex": 10,
+      "speed": 1
+    },
+    {
+      "id": "2",
+      "name": "Jump",
+      "startFrameIndex": 11,
+      "endFrameIndex": 13,
+      "speed": 1
+    },
+    {
+      "id": "3",
+      "name": "Fall",
+      "startFrameIndex": 14,
+      "endFrameIndex": 16,
+      "speed": 1
+    },
+    {
+      "id": "4",
+      "name": "Roll",
+      "startFrameIndex": 17,
+      "endFrameIndex": 21,
+      "speed": 1
+    },
+    {
+      "id": "5",
+      "name": "Attack",
+      "startFrameIndex": 22,
+      "endFrameIndex": 25,
+      "speed": 1
+    },
+    {
+      "id": "6",
+      "name": "Die",
+      "startFrameIndex": 28,
+      "endFrameIndex": 32,
+      "speed": 1
+    },
+    {
+      "id": "7",
+      "name": "Climb",
+      "startFrameIndex": 33,
+      "endFrameIndex": 36,
+      "speed": 1
+    },
+    {
+      "id": "8",
+      "name": "Dead",
+      "startFrameIndex": 32,
+      "endFrameIndex": 32,
+      "speed": 1
+    }
+  ],
+  "mapSlots": {
+    "map": "map",
+    "light": null,
+    "specular": null,
+    "alpha": null,
+    "normal": null
+  },
+  "wrapping": "clampToEdge"
+}

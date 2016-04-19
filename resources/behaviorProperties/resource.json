@@ -1,0 +1,239 @@
+{
+  "behaviors": {
+    "MenuBehavior": {
+      "scriptId": "30",
+      "line": 6,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "CharacterBehavior": {
+      "scriptId": "32",
+      "line": 3,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "speed",
+          "type": "number"
+        },
+        {
+          "name": "jumpSpeed",
+          "type": "number"
+        },
+        {
+          "name": "die",
+          "type": "boolean"
+        },
+        {
+          "name": "fight",
+          "type": "boolean"
+        },
+        {
+          "name": "moveLeft",
+          "type": "boolean"
+        },
+        {
+          "name": "moveRight",
+          "type": "boolean"
+        },
+        {
+          "name": "jump",
+          "type": "boolean"
+        },
+        {
+          "name": "health",
+          "type": "number"
+        }
+      ]
+    },
+    "PlayerBehavior": {
+      "scriptId": "33",
+      "line": 3,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "shapes",
+          "type": "number"
+        },
+        {
+          "name": "speed",
+          "type": "number"
+        },
+        {
+          "name": "jumpSpeed",
+          "type": "number"
+        },
+        {
+          "name": "die",
+          "type": "boolean"
+        },
+        {
+          "name": "fight",
+          "type": "boolean"
+        },
+        {
+          "name": "moveLeft",
+          "type": "boolean"
+        },
+        {
+          "name": "moveRight",
+          "type": "boolean"
+        },
+        {
+          "name": "jump",
+          "type": "boolean"
+        },
+        {
+          "name": "health",
+          "type": "number"
+        }
+      ]
+    },
+    "OBSOLETEFramerateCounterBehavior": {
+      "scriptId": "31",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "OBSOLETEPlayerBehavior": {
+      "scriptId": "3",
+      "line": 5,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "speed",
+          "type": "number"
+        },
+        {
+          "name": "jumpSpeed",
+          "type": "number"
+        },
+        {
+          "name": "die",
+          "type": "boolean"
+        },
+        {
+          "name": "fight",
+          "type": "boolean"
+        },
+        {
+          "name": "moveLeft",
+          "type": "boolean"
+        },
+        {
+          "name": "moveRight",
+          "type": "boolean"
+        },
+        {
+          "name": "jump",
+          "type": "boolean"
+        },
+        {
+          "name": "health",
+          "type": "number"
+        }
+      ]
+    },
+    "OBSOLETEHealthBarBehavior": {
+      "scriptId": "36",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "OBSOLETEEnemyBehavior": {
+      "scriptId": "10",
+      "line": 9,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "speed",
+          "type": "number"
+        },
+        {
+          "name": "jumpSpeed",
+          "type": "number"
+        },
+        {
+          "name": "die",
+          "type": "boolean"
+        },
+        {
+          "name": "fight",
+          "type": "boolean"
+        },
+        {
+          "name": "moveLeft",
+          "type": "boolean"
+        },
+        {
+          "name": "moveRight",
+          "type": "boolean"
+        },
+        {
+          "name": "jump",
+          "type": "boolean"
+        },
+        {
+          "name": "health",
+          "type": "number"
+        },
+        {
+          "name": "id",
+          "type": "number"
+        },
+        {
+          "name": "dead",
+          "type": "boolean"
+        }
+      ]
+    },
+    "EnemyBehavior": {
+      "scriptId": "58",
+      "line": 6,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "speed",
+          "type": "number"
+        },
+        {
+          "name": "jumpSpeed",
+          "type": "number"
+        },
+        {
+          "name": "fight",
+          "type": "boolean"
+        },
+        {
+          "name": "moveLeft",
+          "type": "boolean"
+        },
+        {
+          "name": "moveRight",
+          "type": "boolean"
+        },
+        {
+          "name": "jump",
+          "type": "boolean"
+        },
+        {
+          "name": "health",
+          "type": "number"
+        },
+        {
+          "name": "id",
+          "type": "number"
+        },
+        {
+          "name": "dead",
+          "type": "boolean"
+        }
+      ]
+    },
+    "MuteManagerBehavior": {
+      "scriptId": "69",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    }
+  }
+}
