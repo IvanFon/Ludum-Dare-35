@@ -228,12 +228,6 @@
           "type": "boolean"
         }
       ]
-    },
-    "MuteManagerBehavior": {
-      "scriptId": "69",
-      "line": 0,
-      "parentBehavior": null,
-      "properties": []
     }
   }
 }

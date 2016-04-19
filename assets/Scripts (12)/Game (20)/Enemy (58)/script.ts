@@ -33,9 +33,17 @@ class EnemyBehavior extends Sup.Behavior {
     
     // Sup.log("==ENEMY=== id: " + this.id + " : dead: " + this.dead + " : move left, right: " + this.moveLeft + this.moveRight);
     
-    // Check if health is dun
-    if(this.health <= 0) {
+    // Check if health is out and update kill counter
+    // #NotAtAllHacky -Nova
+    if(this.health <= 0 && this.health != 0.42424242) {
+      
       this.dead = true;
+      
+      // Update Kill Counter
+      Sup.getActor("Kill Counter").textRenderer.setText("Kills: " + ++kills);
+      
+      // Stop this statement from being true
+      this.health = 0.42424242;
     }
     
     // Collide 
@@ -100,7 +108,7 @@ class EnemyBehavior extends Sup.Behavior {
     
     // Check if I'm being attacked
     // This means player is touching me and attack key is down
-    if(Sup.ArcadePhysics2D.collides(this.actor.arcadeBody2D, Sup.getActor("Player").arcadeBody2D) && Sup.Input.isKeyDown("SPACE")) {
+    if(Sup.ArcadePhysics2D.collides(this.actor.arcadeBody2D, Sup.getActor("Player").arcadeBody2D) && Sup.Input.isKeyDown("SPACE") && !this.dead) {
       
       // Check if player is facing me
       if(this.actor.getX() < Sup.getActor("Player").getX() && PlayerManager.getDirection() == "left") {
@@ -223,9 +231,6 @@ class EnemyBehavior extends Sup.Behavior {
       // Set velocity
       this.actor.arcadeBody2D.setVelocity(velocity);
     } else {
-      
-      // Update Kill Counter
-      Sup.getActor("Kill Counter").textRenderer.setText("Kills: " + ++kills);
       
       // Stop all movement
       this.actor.arcadeBody2D.setVelocity(0, 0);

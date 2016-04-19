@@ -173,8 +173,6 @@ class OBSOLETEEnemyBehavior extends Sup.Behavior {
       // Set dead
       this.dead = true;
       
-      // Tell enemy death manager to deal with animations
-      EnemyDeathManager.animateDeath(this.id);
     }
     
     // Check if player is dead

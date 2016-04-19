@@ -1,4 +1,4 @@
-namespace EnemyDeathManager {
+namespace OBSOLETEEnemyDeathManager {
   
   export function animateDeath(id: number) {
     

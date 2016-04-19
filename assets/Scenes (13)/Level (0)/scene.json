@@ -1071,7 +1071,7 @@
         "y": 1,
         "z": 1
       },
-      "visible": false,
+      "visible": true,
       "layer": 0,
       "prefab": null
     }
